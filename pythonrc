@@ -1,0 +1,4 @@
+from hosts import Hosts
+h=Hosts(mc01='10.0.0.1',mc02='10.0.0.2')
+from ini import KeyVal
+k=KeyVal('file-collection/eth0_mng')
