@@ -1,4 +1,4 @@
-#summary How to apply a configuration spanning multiples files
+#summary How to apply a configuration spanning multiples files?
 
 === Apply each section to a different file ===
 ... work in progress
