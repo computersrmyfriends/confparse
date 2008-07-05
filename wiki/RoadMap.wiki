@@ -1,4 +1,4 @@
-Several tasks can be planned depending on how useful it is felt
+Several tasks can be planned depending on how useful it is to users ( <- feedback welcome)
 
   * add a new attribute properties instance for the default, recursively
   * plan errors and throw useful exceptions instead of empty strings
