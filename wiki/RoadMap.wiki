@@ -1,9 +1,9 @@
 Several tasks can be planned depending on how useful it is felt
 
   * add a new attribute properties instance for the default, recursively
-  * match closely the standard !ConfigParser and test_cfgparser.py
+  * match closely the standard !ConfigParser and test_cfgparser.py, extend the unit test coverage
   * test it under python2.3, python2.4 and python3
-  * extend the unit test coverage
+  * package it for the main distrib, lobby for its inclusion into the next python
   * add new classes each of them adapted to the common Unix files (apache, samba, hosts, syslog ...)
   * refactor, rewrite because some smart dude will show me how dumb the current version is
   * ...
