@@ -1,13 +1,9 @@
-#summary One-sentence summary of this page.
+Several tasks can be planned depending on how useful it is felt
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * add a new attribute properties instance for the default, recursively
+  * match closely the standard ConfigParser and test_cfgparser.py
+  * test it under python2.3, python2.4 and python3
+  * extend the unit test coverage
+  * add new classes each of them adapted to the common Unix files (apache, samba, hosts, syslog ...)
+  * refactor, rewrite because some smart dude will show me how dumb the current version is
+  * ...
